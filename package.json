@@ -1,0 +1,26 @@
+{
+  "name": "wdi-students",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.1",
+    "debug": "~2.2.0",
+    "dotenv": "^2.0.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.14.0",
+    "moment": "^2.14.1",
+    "mongoose": "^4.4.6",
+    "morgan": "^1.7.0",
+    "node-sass-middleware": "^0.9.7",
+    "passport": "^0.3.2",
+    "passport-google-oauth20": "^1.0.0",
+    "serve-favicon": "~2.3.0",
+    "socket.io": "^1.4.8",
+    "underscore": "^1.8.3"
+  }
+}
